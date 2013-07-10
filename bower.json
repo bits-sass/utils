@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "author": "Lukáš Mladý",
   "dependencies": {
-    "bits-css-utils-space": "~0.1.0"
+    "bits-css-utils-dimension": "~0.1.0",
+    "bits-css-utils-display": "~0.1.0",
+    "bits-css-utils-layout": "~0.1.0",
+    "bits-css-utils-link": "~0.1.0",
+    "bits-css-utils-offset": "~0.1.0",
+    "bits-css-utils-space": "~0.1.0",
+    "bits-css-utils-state": "~0.1.0",
+    "bits-css-utils-text": "~0.1.0"
   }
 }
