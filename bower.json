@@ -1,0 +1,8 @@
+{
+  "name": "bits-css-utils",
+  "version": "0.1.0",
+  "author": "Lukáš Mladý",
+  "dependencies": {
+    "bits-css-utils-space": "~0.1.0"
+  }
+}
