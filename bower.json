@@ -1,6 +1,6 @@
 {
   "name": "bits-css-utils",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "author": "Lukáš Mladý",
   "dependencies": {
     "bits-css-utils-dimension": "~0.1.0",

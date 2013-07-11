@@ -1,8 +1,8 @@
 === HEAD
 
-=== 0.1.1 (July 11, 2013)
+=== 0.2.0 (July 11, 2013)
 
-* Add utils-image
+* Add image utilities
 
 === 0.1.0 (July 10, 2013)
 
