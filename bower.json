@@ -5,6 +5,7 @@
   "dependencies": {
     "bits-css-utils-dimension": "~0.1.0",
     "bits-css-utils-display": "~0.1.0",
+    "bits-css-utils-image": "~0.1.0",
     "bits-css-utils-layout": "~0.1.0",
     "bits-css-utils-link": "~0.1.0",
     "bits-css-utils-offset": "~0.1.0",
