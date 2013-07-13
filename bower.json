@@ -1,16 +1,16 @@
 {
   "name": "bits-css-utils",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Lukáš Mladý",
   "dependencies": {
-    "bits-css-utils-dimension": "~0.1.0",
-    "bits-css-utils-display": "~0.1.0",
-    "bits-css-utils-image": "~0.1.0",
-    "bits-css-utils-layout": "~0.1.0",
-    "bits-css-utils-link": "~0.1.0",
-    "bits-css-utils-offset": "~0.1.0",
-    "bits-css-utils-space": "~0.1.0",
-    "bits-css-utils-state": "~0.1.0",
-    "bits-css-utils-text": "~0.1.0"
+    "bits-css-utils-dimension": "~0.2.0",
+    "bits-css-utils-display": "~0.2.0",
+    "bits-css-utils-image": "~0.2.0",
+    "bits-css-utils-layout": "~0.2.0",
+    "bits-css-utils-link": "~0.2.0",
+    "bits-css-utils-offset": "~0.2.0",
+    "bits-css-utils-space": "~0.2.0",
+    "bits-css-utils-state": "~0.2.0",
+    "bits-css-utils-text": "~0.2.0"
   }
 }
