@@ -1,5 +1,12 @@
 === HEAD
 
+=== 0.7.0 (August 25, 2013)
+
+* Bump `bits-sass-utils-dimension` version to 0.5.0
+* Bump `bits-sass-utils-image` version to 0.4.0
+* Bump `bits-sass-utils-space` version to 0.5.0
+* Bump `bits-sass-utils-text` version to 0.4.0
+
 === 0.6.0 (July 20, 2013)
 
 * Rename organization's name to 'Bits.sass'
