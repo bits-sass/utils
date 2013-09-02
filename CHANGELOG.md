@@ -1,5 +1,17 @@
 === HEAD
 
+=== 0.8.0 (September 2, 2013)
+
+* Bump `bits-sass-utils-dimension` dependency to ~0.6.0
+* Bump `bits-sass-utils-display` dependency to ~0.3.2
+* Bump `bits-sass-utils-image` dependency to ~0.5.0
+* Bump `bits-sass-utils-layout` dependency to ~0.4.0
+* Bump `bits-sass-utils-link` dependency to ~0.4.0
+* Bump `bits-sass-utils-offset` dependency to ~0.3.3
+* Bump `bits-sass-utils-space` dependency to ~0.6.0
+* Bump `bits-sass-utils-state` dependency to ~0.4.0
+* Bump `bits-sass-utils-text` dependency to ~0.5.0
+
 === 0.7.0 (August 25, 2013)
 
 * Bump `bits-sass-utils-dimension` version to 0.5.0
