@@ -9,7 +9,7 @@
     "bits-sass-utils-layout": "~0.4.0",
     "bits-sass-utils-link": "~0.4.0",
     "bits-sass-utils-offset": "~0.3.3",
-    "bits-sass-utils-space": "~0.6.0",
+    "bits-sass-utils-space": "~0.7.0",
     "bits-sass-utils-state": "~0.4.0",
     "bits-sass-utils-text": "~0.5.0"
   }

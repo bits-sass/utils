@@ -1,5 +1,7 @@
 === HEAD
 
+* Bump `bits-sass-utils-space` dependency to ~0.7.0
+
 === 0.8.0 (September 2, 2013)
 
 * Bump `bits-sass-utils-dimension` dependency to ~0.6.0
